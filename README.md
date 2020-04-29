@@ -4,7 +4,7 @@
 ## Details
 This is a class project for EEL6825 - Pattern Recognition class at University of Florida.
 
-See the video for more details and demo: 
+See the video for more details and demo: https://youtu.be/jwBMKJePaBg
 
 Author: Muthu Kumaran Manoharan
 UFID: 9718-4490
